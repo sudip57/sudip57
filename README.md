@@ -1,6 +1,6 @@
 # Hi, I'm Sudip Tarafdar 👋
 
-### Java Full Stack Developer | Backend & Web Development | DSA
+### Java Full Stack Developer | Backend & Web Development
 
 I'm a Computer Science undergraduate focused on **backend and full-stack development**. I work primarily with **Java, Spring Boot, React, JavaScript, Node.js, Express.js, and databases**, and enjoy building practical web applications and RESTful APIs.
 
